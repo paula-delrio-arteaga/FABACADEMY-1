@@ -18,3 +18,5 @@ Fab academy. micro challenge 1
  - The material is "alive" in a sense, the data that's fed everyday leaves a residue that starts to emerge like patterns on the dyed fabric.
 
  - The residual patterns provide a way to log and contain information.
+
+dcjnj asnjN HEY THIS IS NEW 
