@@ -19,7 +19,7 @@ Fab academy. micro challenge 1
 
  - The residual patterns provide a way to log and contain information
 
-## Scketches:
+## Sketches:
 
 ## Materials needed 
 -  Acrylic board (add measurements)
