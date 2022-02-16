@@ -17,13 +17,16 @@ Fab academy. micro challenge 1
  
  - The material is "alive" in a sense, the data that's fed everyday leaves a residue that starts to emerge like patterns on the dyed fabric.
 
- - The residual patterns provide a way to log and contain information.
+ - The residual patterns provide a way to log and contain information
 
-
-
-
+## Scketches:
 
 ## Materials needed 
-fcyvun
+-  Acrylic board (add measurements)
+-  Poly wood board (add measurements)
+-  Canvas fabric (add measurements)
+-  Pigments natural dyes (add details)
+-  Dropper bottle
+-  Water
 
-hola
+
