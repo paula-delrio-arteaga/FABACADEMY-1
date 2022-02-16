@@ -1,9 +1,9 @@
-# FABACADEMY-1
-Fab academy. micro challenge 1
+# Micro challenge 1 
+(15/02 - 18/02)
 
 ### markdown syntax https://www.markdownguide.org/basic-syntax/#images-1
 
-## Group members: 
+## Group members
 [Andrea Arranz](https://andrea-arranz.github.io/website/)
 
 [Aparna Pallod](https://understood-lint-c6a.notion.site/b919878341cf404bad0df8a4e28ccdf3?v=854afea31dc74448b07f3ecc4f47a6f5)
@@ -11,7 +11,7 @@ Fab academy. micro challenge 1
 [Paula del Río](https://paula-delrio-arteaga.github.io/mdef/index.html)
 
 
-## Project description: 
+## Project description
 
  - Create an artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece. 
  
@@ -19,14 +19,21 @@ Fab academy. micro challenge 1
 
  - The residual patterns provide a way to log and contain information
 
-## Sketches:
+## References
+
+
+## Sketches
 
 ## Materials needed 
--  Acrylic board (add measurements)
+-  Acrylic board or agar biomaterial ? (add measurements)
 -  Poly wood board (add measurements)
 -  Canvas fabric (add measurements)
 -  Pigments natural dyes (add details)
 -  Dropper bottle
 -  Water
+
+## Prototyping
+
+## Fabrication process
 
 
