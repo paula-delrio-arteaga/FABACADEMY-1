@@ -11,4 +11,6 @@ Fab academy. micro challenge 1
 [Paula del Río](https://paula-delrio-arteaga.github.io/mdef/index.html)
 
 
-##
+## Project description: 
+
+Create a artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece. 
