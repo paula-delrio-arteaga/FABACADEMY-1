@@ -15,6 +15,6 @@ Fab academy. micro challenge 1
 
  - Create an artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece. 
  
- - The material is "alive" in a sense, the data that's fed everyday leaves a residue that starts to emerge like patterns on the dyed fabric
+ - The material is "alive" in a sense, the data that's fed everyday leaves a residue that starts to emerge like patterns on the dyed fabric.
 
- - The residual patterns provide a way to log and contain information 
+ - The residual patterns provide a way to log and contain information.
