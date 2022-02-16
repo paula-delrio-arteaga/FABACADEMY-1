@@ -5,7 +5,10 @@ Fab academy. micro challenge 1
 
 ## Group members: 
 [Andrea Arranz](https://andrea-arranz.github.io/website/)
+
 [Aparna Pallod](https://understood-lint-c6a.notion.site/b919878341cf404bad0df8a4e28ccdf3?v=854afea31dc74448b07f3ecc4f47a6f5)
+
 [Paula del Río](https://paula-delrio-arteaga.github.io/mdef/index.html)
+
 
 ##
