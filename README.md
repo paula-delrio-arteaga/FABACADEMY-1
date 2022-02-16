@@ -15,4 +15,4 @@ Fab academy. micro challenge 1
 
  - Create an artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece. 
  
- - The aliv
+ - The material is "alive" in a sense, the data that's feeded everyday is leaving a residue that emerge like patterns 
