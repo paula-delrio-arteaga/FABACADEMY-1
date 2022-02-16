@@ -13,4 +13,6 @@ Fab academy. micro challenge 1
 
 ## Project description: 
 
-Create a artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece. 
+ - Create an artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece. 
+ 
+ - The aliv
