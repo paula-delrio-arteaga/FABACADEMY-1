@@ -1,4 +1,4 @@
-# Micro challenge 1 
+# Micro challenge 1
 (15/02 - 18/02)
 
 ### markdown syntax https://www.markdownguide.org/basic-syntax/#images-1
@@ -13,8 +13,8 @@
 
 ## Project description
 
- - Create an artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece. 
- 
+ - Create an artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece.
+
  - The material is "alive" in a sense, the data that's fed everyday leaves a residue that starts to emerge like patterns on the dyed fabric.
 
  - The residual patterns provide a way to log and contain information
@@ -27,7 +27,7 @@
 
 ## Sketches
 
-## Materials needed 
+## Materials needed
 -  Acrylic board or agar biomaterial ? (add measurements)
 -  Poly wood board (add measurements)
 -  Canvas fabric (add measurements)
@@ -38,5 +38,3 @@
 ## Prototyping
 
 ## Fabrication process
-
-
