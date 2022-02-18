@@ -34,7 +34,7 @@ Below listed are topics we are interested in. The ones in italics are common int
 - When thinking of ways to make a material "alive", we thought of simple to complex ways of making it. From- using biomaterial and the changes in the material in itself to show passage of time, the ripples created on water surfaces, using chromatic paint to make it "responsive", generative patterns, adding elements day by day to make the piece dynamic/evolving, the patterns created by water based on height and quantity.
 
 - After collectively deciding on what kind of approach we want to take, we were thinking of various data information we were interested in gathering.
-![Concept Sketch](Images/concept_sketch.jpg)
+![Concept Sketch](Images/conceptsketch.jpg)
 
 - While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
 
@@ -77,21 +77,21 @@ Below listed are topics we are interested in. The ones in italics are common int
 ## Fabrication process
 We used laser cutter and cross cut wood cutting machine for the fabrication process.
 1. The Trotec Speedy for cutting the **3.0 mm acrylic**. With the parameters:
-Power : 100
-Speed : 0.5
-Hz : 20000
+- Power : 100
+- Speed : 0.5
+- Hz : 20000
 2. The Trotec Speedy for cutting the **0.5 mm canvas cloth**. With the parameters:
-Power : 20
-Speed : 1.00
-Hz : 1000 hz
+- Power : 20
+- Speed : 1.00
+- Hz : 1000 hz
 3. The Trotec Speedy for engraving on the **0.5 mm canvas cloth**. With the parameters:
-Power : 70
-Speed : 80
-Hz : 1000ppi
+- Power : 70
+- Speed : 80
+- Hz : 1000ppi
 4. Cross cut wood cutting machine for cutting the **wooden cylinders**. With the parameters:
-1st cylinder - diameter: , length:
-2nd cylinder -
-3rd cylinder -
+- 1st cylinder - diameter: , length:
+- 2nd cylinder -
+- 3rd cylinder -
 
 ## Setting Up
 //more images
