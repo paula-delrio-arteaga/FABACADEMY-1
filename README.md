@@ -10,7 +10,6 @@
 
 [Paula del Río](https://paula-delrio-arteaga.github.io/mdef/index.html)
 
-
 ## Project description
 
  - Create an artifact to visualize data on a piece of fabric in order to obtain an alive wearable piece.
@@ -25,7 +24,7 @@ Traditionally we used to think in future times. Calendars, schedules, and notebo
 This device allows us to see our data, translate it into an image, and to better understand the flows of our behaviour. We turned upside down the traditional way of visualizing our time to bring the opportunity to be in the context.
 
 ## References
-<<<<<<< HEAD
+
 - [Audrey Desjardins](https://www.studiotilt.design/data-bakery)
 - [Data Visualization Textile](https://fashnerd.com/wp-content/uploads/2020/01/nk_sweaters_full.jpg)
 - Pattern Generation on surfaces
@@ -35,14 +34,7 @@ This device allows us to see our data, translate it into an image, and to better
 ##Concept Development
 - It was super interesting to see how our interests were overlapping and completing each other. Very early on we realised, all of us collectively wanted to take an unconventional approach for the challenge - *provotyping*.
 ![Screenshot of work space on miro](Images/miro.jpg)
-=======
->>>>>>> 60fd47b155c951fb81b75c6bc19550ad5562060c
 
-### Audrey Desjardins
-
-
-
-<<<<<<< HEAD
 - While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
 
 ## Materials needed (measurements to be added)
@@ -53,11 +45,6 @@ This device allows us to see our data, translate it into an image, and to better
 - Dropper bottle
 - Water
 - Screws to fix
-=======
-
-## Sketches
-
->>>>>>> 60fd47b155c951fb81b75c6bc19550ad5562060c
 
 ## Materials needed
 -  Acrylic board or agar biomaterial ? (add measurements)
