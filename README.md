@@ -76,6 +76,7 @@ This device allows us to see our data, translate it into an image, and to better
 
 ## Prototyping
 - While discussing the idea, we were not sure if the tension between the cylinders would be sufficient enough to move but also keep the canvas in hold. To get an understanding of the mechanism, we slit the cardboard into 4 pieces (front, back, side A, side B) with holes on the side to insert the cylinders.
+1. For prototyping the outer box with cardboard :
 - Power: 40
 - Speed: 1
 - Frequency: 1000 hz
