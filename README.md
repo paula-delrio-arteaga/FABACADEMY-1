@@ -25,9 +25,7 @@ Below listed are topics we are interested in. The ones in italics are common int
 2. Aparna: Bio hack micro organisms, spiritual poetic tech, *alive wearables*, *grow your own data*
 3. Paula: Maths in Nature, generative design/art, *art as a provocative tool to understand connection*, interspecies collaboration, symbiosis between nature and human, co-living, bioremidiation, energy,*aesthetics to create narratives*
 
-
 ## Introduction
-
 Traditionally we used to think in future times. Calendars, schedules, and notebooks allow us to plan seconds, hours, and days. The act to turn pages giveS us a feeling of release, things are done, but data remains. We hide the past days as they are worth nothing but the reality is that remembering our days gives as a context a base to build above and a source of reflection.
 This device allows us to see our data, translate it into an image, and to better understand the flows of our behaviour. We turned upside down the traditional way of visualizing our time to bring the opportunity to be in the context.
 
@@ -64,14 +62,6 @@ This device allows us to see our data, translate it into an image, and to better
 - Dropper bottle
 - Water
 - Screws to fix
-
-## Materials needed
--  Acrylic board or agar biomaterial ? (add measurements)
--  Poly wood board (add measurements)
--  Canvas fabric (add measurements)
--  Pigments natural dyes (add details)
--  Dropper bottle
--  Water
 
 ## Prototyping
 - While discussing the idea, we were not sure if the tension between the cylinders would be sufficient enough to move but also keep the canvas in hold. To get an understanding of the mechanism, we slit the cardboard into 4 pieces (front, back, side A, side B) with holes on the side to insert the cylinders.
@@ -133,6 +123,10 @@ We used laser cutter and cross cut wood cutting machine for the fabrication proc
 ## In Action
 ![Mechanism sketch](Images/tensiondiagram.png)
 ![The parameters for plotting](Images/fabrication_07.jpg)
+![](Images/fabrication_08.jpg)
+![](Images/fabrication_09.jpg)
+![](Images/fabrication_10.jpg)
+![](Images/fabrication_11.jpg)
 
 ## Further Ideas
 - Next, we want to measure other parameters like at what time I took my contraceptive pill, how many times did I consume coffee, how much/less homesick did I feel. More intimate habits.
