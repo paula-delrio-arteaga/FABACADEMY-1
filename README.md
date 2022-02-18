@@ -36,7 +36,7 @@ This device allows us to see our data, translate it into an image, and to better
 - [pH modifiers for natural dyes](https://www.fourrabbit.com/tutorials/2020/6/5/ph-modifiers-for-natural-dyes)
 - [What Pulse](https://whatpulse.org) to measure our keyboard and clicks activity
 
-##Concept Development
+## Concept Development
 - It was super interesting to see how our interests were overlapping and completing each other. Very early on we realised, all of us collectively wanted to take an unconventional approach for the challenge - *provotyping*.
 ![Screenshot of work space on miro](Images/miro.jpg)
 
