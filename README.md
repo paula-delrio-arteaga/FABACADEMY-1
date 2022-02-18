@@ -25,7 +25,7 @@ Below listed are topics we are interested in. The ones in italics are common int
 2. Aparna: Bio hack micro organisms, spiritual poetic tech, *alive wearables*, *grow your own data*
 3. Paula: Maths in Nature, generative design/art, *art as a provocative tool to understand connection*, interspecies collaboration, symbiosis between nature and human, co-living, bioremidiation, energy,*aesthetics to create narratives*
 
-<<<<<<< HEAD
+
 ## Introduction
 
 Traditionally we used to think in future times. Calendars, schedules, and notebooks allow us to plan seconds, hours, and days. The act to turn pages giveS us a feeling of release, things are done, but data remains. We hide the past days as they are worth nothing but the reality is that remembering our days gives as a context a base to build above and a source of reflection.
@@ -51,7 +51,7 @@ This device allows us to see our data, translate it into an image, and to better
 - While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
 
 - The kind of data we can gather with What Pulse about our keyboard. We played with the idea of "how much did I rethink in the digital world?" and tied it up with the number of times the delete button was pressed
-![Keyboard tracking](Images/img_02.png)
+![Keyboard tracking](Images/img02.png)
 ## Sketches
 ![](../Images/img03.png)
 ![](..Images/sketch.png)
@@ -77,8 +77,8 @@ This device allows us to see our data, translate it into an image, and to better
 ## Prototyping
 - While discussing the idea, we were not sure if the tension between the cylinders would be sufficient enough to move but also keep the canvas in hold. To get an understanding of the mechanism, we slit the cardboard into 4 pieces (front, back, side A, side B) with holes on the side to insert the cylinders.
 - Power: 40
-- Speed: 1
-- Frequency: 1000 hz
+  Speed: 1
+  Frequency: 1000 hz
 ![Cardboard prototype of the analog data plotter](Images/prototyping_4.jpg)
 
 - After loading the canvas on the wooden cylinders, we wanted to see how the natural dye (turmeric+water) would emerge and leave residues on the canvas.
@@ -101,13 +101,13 @@ This device allows us to see our data, translate it into an image, and to better
 We used laser cutter and cross cut wood cutting machine for the fabrication process.
 1. The Trotec Speedy for cutting the **3.0 mm acrylic**. With the parameters:
 - Power : 60
-- Speed : 0.5
-- Hz : 20000
+  Speed : 0.5
+ Hz : 20000
 
 2. The Trotec Speedy for engraving the **3.0 mm acrylic**. With the parameters:
 - Power : 70
-- Speed : 100
-- Hz : 20000
+  Speed : 100
+  Hz : 20000
 
 3. The Trotec Speedy for cutting the **0.5 mm canvas cloth**. With the parameters:
 - Power : 20
@@ -116,13 +116,13 @@ We used laser cutter and cross cut wood cutting machine for the fabrication proc
 
 4. The Trotec Speedy for engraving on the **0.5 mm canvas cloth**. With the parameters:
 - Power : 70
-- Speed : 80
-- Hz : 1000 ppi
+  Speed : 80
+  Hz : 1000 ppi
 
 5. Cross cut wood cutting machine for cutting the **wooden cylinders**. With the parameters:
 - 1st cylinder - diameter: 25 mm, length: 180 mm
-- 2nd cylinder - diameter: 15 mm, length: 180 mm
-- 3rd cylinder - diameter: 15 mm, length: 180 mm
+  2nd cylinder - diameter: 15 mm, length: 180 mm
+  3rd cylinder - diameter: 15 mm, length: 180 mm
 
 ## Setting Up
 ![Fixing the base and the data plotter](Images/fabrication_02.jpg)
