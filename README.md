@@ -139,4 +139,4 @@ We used laser cutter and cross cut wood cutting machine for the fabrication proc
 - As we were running out of time, we didn't have time to wash the fabric and engrave on it. As we speculate the dyes would be more absorbed into the fabric.
 - We are interested in the new rituals of everyday life that would emerge.
 - We are curious to what limits can we measure on the slots and try different parameters.
-- Try out different materials for the roll.
+- Try out different materials for the rolling.
