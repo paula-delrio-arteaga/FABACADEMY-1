@@ -53,8 +53,8 @@ This device allows us to see our data, translate it into an image, and to better
 - The kind of data we can gather with What Pulse about our keyboard. We played with the idea of "how much did I rethink in the digital world?" and tied it up with the number of times the delete button was pressed
 ![Keyboard tracking](Images/img02.png)
 ## Sketches
-![](../Images/img03.png)
-![](..Images/sketch.png)
+![](Images/img03.png)
+![](Images/sketch.png)
 ![](Images/conceptsketch.jpg)
 
 ## Materials needed (measurements to be added)
