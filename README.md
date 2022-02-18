@@ -14,23 +14,29 @@
 3. Laser cut files
 
 ## Project description
-To create an artifact that allows to gather and plot data in unconventional way(s). To play with the concept of "aliveness" in wearables or domestic objects.
+To create an artefact that allows gathering and plotting of data in unconventional way(s). To play with the concept of "aliveness" in wearables or domestic objects.
 
 ## Brainstorming
 Edu created a [miro board](https://miro.com/app/board/uXjVOQGXTuc=/) with venn diagrams, where we could write down our personal areas of interest and also see the intersections happening within the members of the group.
 
-Below listed are topics we are interested in. The ones in red are common interests found within the group:
+Below listed are topics we are interested in. The ones in italics are common interests found within the group:
 
-1. Andrea: <span style="color: red;">wear data</span>, data economy, hack IoT, gen-info-meme, <span style="color: red;">unconventional interfaces</span>, narrative creative, relationship with data-object-subject, analogue visualization of data
-2. Aparna: Bio hack micro organisms, spiritual poetic tech, <span style="color: red;">alive wearables</span>, <span style="color: red;">grow your own data</span>
-3. Paula: Maths in Nature, generative design/art, <span style="color: red;">art as a provocative tool to understand connection</span>, interspecies collaboration, symbiosis between nature and human, co-living, bioremidiation, energy,<span style="color: red;">aesthetics to create narratives</span>
+1. Andrea: *wear data*, data economy, hack IoT, gen-info-meme, *unconventional interfaces*, narrative creative, relationship with data-object-subject, analogue visualization of data
+2. Aparna: Bio hack micro organisms, spiritual poetic tech, *alive wearables*, *grow your own data*
+3. Paula: Maths in Nature, generative design/art, *art as a provocative tool to understand connection*, interspecies collaboration, symbiosis between nature and human, co-living, bioremidiation, energy,*aesthetics to create narratives*
 
 ##Concept Development
 - It was super interesting to see how our interests were overlapping and completing each other. Very early on we realised, all of us collectively wanted to take an unconventional approach for the challenge - *provotyping*.
-- While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
+![Screenshot of work space on miro](/FABACADEMY-1/Images/miro.jpg)
+
 - We were fascinated by different ways we could "track" data with the changes in our surrounding- as a droplet, as change in ambient light.
+
 - When thinking of ways to make a material "alive", we thought of simple to complex ways of making it. From- using biomaterial and the changes in the material in itself to show passage of time, the ripples created on water surfaces, using chromatic paint to make it "responsive", generative patterns, adding elements day by day to make the piece dynamic/evolving, the patterns created by water based on height and quantity.
+
 - After collectively deciding on what kind of approach we want to take, we were thinking of various data information we were interested in gathering.
+![Concept Sketch](/FABACADEMY-1/Images/concept_sketch.jpg)
+
+- While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
 
 ## References
 - [Audrey Desjardins](https://www.studiotilt.design/data-bakery)
@@ -51,8 +57,10 @@ Below listed are topics we are interested in. The ones in red are common interes
 ## Prototyping
 - While discussing the idea, we were not sure if the tension between the cylinders would be sufficient enough to move but also keep the canvas in hold. To get an understanding of the mechanism, we slit the cardboard into 4 pieces (front, back, side A, side B) with holes on the side to insert the cylinders.
 ![Cardboard prototype of the analog data plotter](/FABACADEMY-1/Images/prototyping_4.jpg)
+
 - After loading the canvas on the wooden cylinders, we wanted to see how the natural dye (turmeric+water) would emerge and leave residues on the canvas.
-![Data logging with natural dye](Images/drop.jpg)
+![Data logging with natural dye](Images/prototyping_5.jpg)
+
 **Results:**
 - The pulling mechanism worked fine.
 - The teeth on the outside of the box did a good job to hold the fabric in place.
@@ -60,10 +68,11 @@ Below listed are topics we are interested in. The ones in red are common interes
 - The main challenge and failures we had was while testing the mechanism to lock the Side A and Side B into the acrylic base sheet. As the material is brittle, we had to laser cut different dimensions of height and width to get the flexibility but not break apart.
 
 **Results**
-- The joints were too thin (measurements:)
-- The joints were too short
-- The joints were okay but not fully sure secure to trust
-- The centre part of the joint was reduced in width, which gave it more security.
+![The holding joint](fabrication_01.jpg)
+- Initially joints were too thin (measurements:)
+- Or joints were too short
+- Then joints were okay but not fully sure secure to trust
+- Afterwards, we reduced the width of the centre part of the joint which gave it more security.
 
 ## Fabrication process
 We used laser cutter and cross cut wood cutting machine for the fabrication process.
@@ -84,6 +93,11 @@ Hz : 1000ppi
 2nd cylinder -
 3rd cylinder -
 
+## Setting Up
+//more images
+![Fixing the base and the data plotter](fabrication_02.jpg)
+## In Action
+//demo step-by-step images of it working
 ## Further Ideas
 - Next, we want to measure other parameters like at what time I took my contraceptive pill, how many times did I consume coffee, how much/less homesick did I feel. More intimate habits.
 - As we were running out of time, we didn't have time to wash the fabric and engrave on it. As we speculate the dyes would be more absorbed into the fabric.
