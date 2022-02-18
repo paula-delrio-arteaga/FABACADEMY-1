@@ -27,14 +27,14 @@ Below listed are topics we are interested in. The ones in italics are common int
 
 ##Concept Development
 - It was super interesting to see how our interests were overlapping and completing each other. Very early on we realised, all of us collectively wanted to take an unconventional approach for the challenge - *provotyping*.
-![Screenshot of work space on miro](/FABACADEMY-1/Images/miro.jpg)
+![Screenshot of work space on miro](Images/miro.jpg)
 
 - We were fascinated by different ways we could "track" data with the changes in our surrounding- as a droplet, as change in ambient light.
 
 - When thinking of ways to make a material "alive", we thought of simple to complex ways of making it. From- using biomaterial and the changes in the material in itself to show passage of time, the ripples created on water surfaces, using chromatic paint to make it "responsive", generative patterns, adding elements day by day to make the piece dynamic/evolving, the patterns created by water based on height and quantity.
 
 - After collectively deciding on what kind of approach we want to take, we were thinking of various data information we were interested in gathering.
-![Concept Sketch](/FABACADEMY-1/Images/concept_sketch.jpg)
+![Concept Sketch](Images/concept_sketch.jpg)
 
 - While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
 
@@ -56,7 +56,7 @@ Below listed are topics we are interested in. The ones in italics are common int
 
 ## Prototyping
 - While discussing the idea, we were not sure if the tension between the cylinders would be sufficient enough to move but also keep the canvas in hold. To get an understanding of the mechanism, we slit the cardboard into 4 pieces (front, back, side A, side B) with holes on the side to insert the cylinders.
-![Cardboard prototype of the analog data plotter](/FABACADEMY-1/Images/prototyping_4.jpg)
+![Cardboard prototype of the analog data plotter](Images/prototyping_4.jpg)
 
 - After loading the canvas on the wooden cylinders, we wanted to see how the natural dye (turmeric+water) would emerge and leave residues on the canvas.
 ![Data logging with natural dye](Images/prototyping_5.jpg)
@@ -68,7 +68,7 @@ Below listed are topics we are interested in. The ones in italics are common int
 - The main challenge and failures we had was while testing the mechanism to lock the Side A and Side B into the acrylic base sheet. As the material is brittle, we had to laser cut different dimensions of height and width to get the flexibility but not break apart.
 
 **Results**
-![The holding joint](fabrication_01.jpg)
+![The holding joint](Images/fabrication_01.jpg)
 - Initially joints were too thin (measurements:)
 - Or joints were too short
 - Then joints were okay but not fully sure secure to trust
@@ -95,7 +95,7 @@ Hz : 1000ppi
 
 ## Setting Up
 //more images
-![Fixing the base and the data plotter](fabrication_02.jpg)
+![Fixing the base and the data plotter](Images/fabrication_02.jpg)
 ## In Action
 //demo step-by-step images of it working
 ## Further Ideas
