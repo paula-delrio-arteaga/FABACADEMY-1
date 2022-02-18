@@ -34,7 +34,7 @@ Below listed are topics we are interested in. The ones in italics are common int
 - When thinking of ways to make a material "alive", we thought of simple to complex ways of making it. From- using biomaterial and the changes in the material in itself to show passage of time, the ripples created on water surfaces, using chromatic paint to make it "responsive", generative patterns, adding elements day by day to make the piece dynamic/evolving, the patterns created by water based on height and quantity.
 
 - After collectively deciding on what kind of approach we want to take, we were thinking of various data information we were interested in gathering.
-![Concept Sketch](Images/conceptsketch.png)
+![Concept Sketch](Images/conceptsketch.jpg)
 
 - While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
 
