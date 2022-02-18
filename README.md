@@ -77,8 +77,8 @@ This device allows us to see our data, translate it into an image, and to better
 ## Prototyping
 - While discussing the idea, we were not sure if the tension between the cylinders would be sufficient enough to move but also keep the canvas in hold. To get an understanding of the mechanism, we slit the cardboard into 4 pieces (front, back, side A, side B) with holes on the side to insert the cylinders.
 - Power: 40
-  Speed: 1
-  Frequency: 1000 hz
+- Speed: 1
+- Frequency: 1000 hz
 ![Cardboard prototype of the analog data plotter](Images/prototyping_4.jpg)
 
 - After loading the canvas on the wooden cylinders, we wanted to see how the natural dye (turmeric+water) would emerge and leave residues on the canvas.
@@ -101,13 +101,13 @@ This device allows us to see our data, translate it into an image, and to better
 We used laser cutter and cross cut wood cutting machine for the fabrication process.
 1. The Trotec Speedy for cutting the **3.0 mm acrylic**. With the parameters:
 - Power : 60
-  Speed : 0.5
- Hz : 20000
+- Speed : 0.5
+- Hz : 20000
 
 2. The Trotec Speedy for engraving the **3.0 mm acrylic**. With the parameters:
 - Power : 70
-  Speed : 100
-  Hz : 20000
+- Speed : 100
+- Hz : 20000
 
 3. The Trotec Speedy for cutting the **0.5 mm canvas cloth**. With the parameters:
 - Power : 20
@@ -116,13 +116,13 @@ We used laser cutter and cross cut wood cutting machine for the fabrication proc
 
 4. The Trotec Speedy for engraving on the **0.5 mm canvas cloth**. With the parameters:
 - Power : 70
-  Speed : 80
-  Hz : 1000 ppi
+- Speed : 80
+- Hz : 1000 ppi
 
 5. Cross cut wood cutting machine for cutting the **wooden cylinders**. With the parameters:
 - 1st cylinder - diameter: 25 mm, length: 180 mm
-  2nd cylinder - diameter: 15 mm, length: 180 mm
-  3rd cylinder - diameter: 15 mm, length: 180 mm
+- 2nd cylinder - diameter: 15 mm, length: 180 mm
+- 3rd cylinder - diameter: 15 mm, length: 180 mm
 
 ## Setting Up
 ![Fixing the base and the data plotter](Images/fabrication_02.jpg)
