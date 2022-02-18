@@ -73,6 +73,7 @@ This device allows us to see our data, translate it into an image, and to better
 
 - After loading the canvas on the wooden cylinders, we wanted to see how the natural dye (turmeric+water) would emerge and leave residues on the canvas.
 ![Data logging with natural dye](Images/prototyping_5.jpg)
+![](Images/protoype_07.jpg)
 
 **Results:**
 - The pulling mechanism worked fine.
