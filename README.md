@@ -25,19 +25,21 @@ Below listed are topics we are interested in. The ones in italics are common int
 2. Aparna: Bio hack micro organisms, spiritual poetic tech, *alive wearables*, *grow your own data*
 3. Paula: Maths in Nature, generative design/art, *art as a provocative tool to understand connection*, interspecies collaboration, symbiosis between nature and human, co-living, bioremidiation, energy,*aesthetics to create narratives*
 
-<<<<<<< HEAD
 ## Introduction
 
-Traditionally we used to think in future times. Calendars, schedules, and notebooks allow us to plan seconds, hours, and days. The act to turn pages giveS us a feeling of release, things are done, but data remains. We hide the past days as they are worth nothing but the reality is that remembering our days gives as a context a base to build above and a source of reflection. 
-This device allows us to see our data, translate it into an image, and to better understand the flows of our behavior. We turned upside down the traditional way of visualizing our time to bring the opportunity to be in the context.
- 
+Traditionally we used to think in future times. Calendars, schedules, and notebooks allow us to plan seconds, hours, and days. The act to turn pages giveS us a feeling of release, things are done, but data remains. We hide the past days as they are worth nothing but the reality is that remembering our days gives as a context a base to build above and a source of reflection.
+This device allows us to see our data, translate it into an image, and to better understand the flows of our behaviour. We turned upside down the traditional way of visualizing our time to bring the opportunity to be in the context.
 
 ## References
-=======
+- [Audrey Desjardins](https://www.studiotilt.design/data-bakery)
+- [Data Visualization Textile](https://fashnerd.com/wp-content/uploads/2020/01/nk_sweaters_full.jpg)
+- Pattern Generation on surfaces
+- [pH modifiers for natural dyes](https://www.fourrabbit.com/tutorials/2020/6/5/ph-modifiers-for-natural-dyes)
+- [What Pulse](https://whatpulse.org) to measure our keyboard and clicks activity
+
 ##Concept Development
 - It was super interesting to see how our interests were overlapping and completing each other. Very early on we realised, all of us collectively wanted to take an unconventional approach for the challenge - *provotyping*.
 ![Screenshot of work space on miro](Images/miro.jpg)
->>>>>>> 2eb4c9f65e4cf0465e61e7f3e26b4479e5791414
 
 - We were fascinated by different ways we could "track" data with the changes in our surrounding- as a droplet, as change in ambient light.
 
@@ -46,20 +48,7 @@ This device allows us to see our data, translate it into an image, and to better
 - After collectively deciding on what kind of approach we want to take, we were thinking of various data information we were interested in gathering.
 ![Concept Sketch](Images/conceptsketch.jpg)
 
-<<<<<<< HEAD
-
-## Sketches
-![](../Images/img03.png)
-=======
 - While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
->>>>>>> 2eb4c9f65e4cf0465e61e7f3e26b4479e5791414
-
-## References
-- [Audrey Desjardins](https://www.studiotilt.design/data-bakery)
-- [Data Visualization Textile](https://fashnerd.com/wp-content/uploads/2020/01/nk_sweaters_full.jpg)
-- Pattern Generation on surfaces
-- [pH modifiers for natural dyes](https://www.fourrabbit.com/tutorials/2020/6/5/ph-modifiers-for-natural-dyes)
-- [What Pulse](https://whatpulse.org) to measure our keyboard and clicks activity
 
 ## Materials needed (measurements to be added)
 - Acrylic board / agar biomaterial
