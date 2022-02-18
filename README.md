@@ -132,7 +132,7 @@ We used laser cutter and cross cut wood cutting machine for the fabrication proc
 
 ## In Action
 ![Mechanism sketch](Images/tensiondiagram.png)
-![The parameters for plotting](Images/fabrication_07)
+![The parameters for plotting](Images/fabrication_07.jpg)
 
 ## Further Ideas
 - Next, we want to measure other parameters like at what time I took my contraceptive pill, how many times did I consume coffee, how much/less homesick did I feel. More intimate habits.
