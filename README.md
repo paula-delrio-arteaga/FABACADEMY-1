@@ -19,13 +19,21 @@
 
  - The residual patterns provide a way to log and contain information
 
+## Introduction
+
+Traditionally we used to think in future times. Calendars, schedules, and notebooks allow us to plan seconds, hours, and days. The act to turn pages giveS us a feeling of release, things are done, but data remains. We hide the past days as they are worth nothing but the reality is that remembering our days gives as a context a base to build above and a source of reflection. 
+This device allows us to see our data, translate it into an image, and to better understand the flows of our behavior. We turned upside down the traditional way of visualizing our time to bring the opportunity to be in the context.
+ 
+
 ## References
 
 ### Audrey Desjardins
 
 
 
+
 ## Sketches
+![](../Images/img03.png)
 
 ## Materials needed
 -  Acrylic board or agar biomaterial ? (add measurements)
