@@ -8,14 +8,11 @@
 - [Aparna Pallod](https://understood-lint-c6a.notion.site/b919878341cf404bad0df8a4e28ccdf3?v=854afea31dc74448b07f3ecc4f47a6f5)
 - [Paula del Río](https://paula-delrio-arteaga.github.io/mdef/index.html)
 
-<<<<<<< HEAD
-=======
 ## What you will find in this repo
 1. Documentation for micro challenge 01
 2. Images of the process
 3. Laser cut files
 
->>>>>>> parent of d45882b (add iimage)
 ## Project description
 To create an artefact that allows gathering and plotting of data in unconventional way(s). To play with the concept of "aliveness" in wearables or domestic objects.
 
@@ -35,46 +32,31 @@ Traditionally we used to think in future times. Calendars, schedules, and notebo
 This device allows us to see our data, translate it into an image, and to better understand the flows of our behaviour. We turned upside down the traditional way of visualizing our time to bring the opportunity to be in the context.
 
 ## References
-=======
-##Concept Development
-- It was super interesting to see how our interests were overlapping and completing each other. Very early on we realised, all of us collectively wanted to take an unconventional approach for the challenge - *provotyping*.
-![Screenshot of work space on miro](Images/miro.jpg)
->>>>>>> 2eb4c9f65e4cf0465e61e7f3e26b4479e5791414
-
-<<<<<<< HEAD
-=======
-- We were fascinated by different ways we could "track" data with the changes in our surrounding- as a droplet, as change in ambient light.
-
-- When thinking of ways to make a material "alive", we thought of simple to complex ways of making it. From- using biomaterial and the changes in the material in itself to show passage of time, the ripples created on water surfaces, using chromatic paint to make it "responsive", generative patterns, adding elements day by day to make the piece dynamic/evolving, the patterns created by water based on height and quantity.
-
-- After collectively deciding on what kind of approach we want to take, we were thinking of various data information we were interested in gathering.
-![Concept Sketch](Images/conceptsketch.jpg)
-
-<<<<<<< HEAD
-
-## Sketches
-![](../Images/img03.png)
-=======
-- While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
->>>>>>> 2eb4c9f65e4cf0465e61e7f3e26b4479e5791414
-
-## References
->>>>>>> parent of d45882b (add iimage)
 - [Audrey Desjardins](https://www.studiotilt.design/data-bakery)
 - [Data Visualization Textile](https://fashnerd.com/wp-content/uploads/2020/01/nk_sweaters_full.jpg)
 - Pattern Generation on surfaces
 - [pH modifiers for natural dyes](https://www.fourrabbit.com/tutorials/2020/6/5/ph-modifiers-for-natural-dyes)
 - [What Pulse](https://whatpulse.org) to measure our keyboard and clicks activity
 
-<<<<<<< HEAD
 ##Concept Development
 - It was super interesting to see how our interests were overlapping and completing each other. Very early on we realised, all of us collectively wanted to take an unconventional approach for the challenge - *provotyping*.
 ![Screenshot of work space on miro](Images/miro.jpg)
 
+- We were fascinated by different ways we could "track" data with the changes in our surrounding- as a droplet, as change in ambient light.
+
+- When thinking of ways to make a material "alive", we thought of simple to complex ways of making it. From- using biomaterial and the changes in the material in itself to show passage of time, the ripples created on water surfaces, using chromatic paint to make it "responsive", generative patterns, adding elements day by day to make the piece dynamic/evolving, the patterns created by water based on height and quantity.
+
+- After collectively deciding on what kind of approach we want to take, we were thinking of various data information we were interested in gathering.
+
 - While discussing ideas, we also kept in mind if we are able integrate our previous weekly challenges learning into practice. (parametric modelling, laser cut, vinyl cutting)
 
-=======
->>>>>>> parent of d45882b (add iimage)
+- The kind of data we can gather with What Pulse about our keyboard. We played with the idea of "how much did I rethink in the digital world?" and tied it up with the number of times the delete button was pressed
+![Keyboard tracking](Images/img_02.png)
+## Sketches
+![](../Images/img03.png)
+![](..Images/sketch.png)
+![](Images/conceptsketch.jpg)
+
 ## Materials needed (measurements to be added)
 - Acrylic board / agar biomaterial
 - Cardboard
@@ -83,7 +65,6 @@ This device allows us to see our data, translate it into an image, and to better
 - Dropper bottle
 - Water
 - Screws to fix
-<<<<<<< HEAD
 
 ## Materials needed
 -  Acrylic board or agar biomaterial ? (add measurements)
@@ -92,11 +73,12 @@ This device allows us to see our data, translate it into an image, and to better
 -  Pigments natural dyes (add details)
 -  Dropper bottle
 -  Water
-=======
->>>>>>> parent of d45882b (add iimage)
 
 ## Prototyping
 - While discussing the idea, we were not sure if the tension between the cylinders would be sufficient enough to move but also keep the canvas in hold. To get an understanding of the mechanism, we slit the cardboard into 4 pieces (front, back, side A, side B) with holes on the side to insert the cylinders.
+- Power: 40
+- Speed: 1
+- Frequency: 1000 hz
 ![Cardboard prototype of the analog data plotter](Images/prototyping_4.jpg)
 
 - After loading the canvas on the wooden cylinders, we wanted to see how the natural dye (turmeric+water) would emerge and leave residues on the canvas.
@@ -118,27 +100,40 @@ This device allows us to see our data, translate it into an image, and to better
 ## Fabrication process
 We used laser cutter and cross cut wood cutting machine for the fabrication process.
 1. The Trotec Speedy for cutting the **3.0 mm acrylic**. With the parameters:
-- Power : 100
+- Power : 60
 - Speed : 0.5
 - Hz : 20000
-2. The Trotec Speedy for cutting the **0.5 mm canvas cloth**. With the parameters:
+
+2. The Trotec Speedy for engraving the **3.0 mm acrylic**. With the parameters:
+- Power : 70
+- Speed : 100
+- Hz : 20000
+
+3. The Trotec Speedy for cutting the **0.5 mm canvas cloth**. With the parameters:
 - Power : 20
 - Speed : 1.00
 - Hz : 1000 hz
-3. The Trotec Speedy for engraving on the **0.5 mm canvas cloth**. With the parameters:
+
+4. The Trotec Speedy for engraving on the **0.5 mm canvas cloth**. With the parameters:
 - Power : 70
 - Speed : 80
-- Hz : 1000ppi
-4. Cross cut wood cutting machine for cutting the **wooden cylinders**. With the parameters:
-- 1st cylinder - diameter: , length:
-- 2nd cylinder -
-- 3rd cylinder -
+- Hz : 1000 ppi
+
+5. Cross cut wood cutting machine for cutting the **wooden cylinders**. With the parameters:
+- 1st cylinder - diameter: 25 mm, length: 180 mm
+- 2nd cylinder - diameter: 15 mm, length: 180 mm
+- 3rd cylinder - diameter: 15 mm, length: 180 mm
 
 ## Setting Up
-//more images
 ![Fixing the base and the data plotter](Images/fabrication_02.jpg)
+![Working with the mechanism](Images/fabrication_06.jpg)
+![Etching and cutting the fabric](Images/fabrication_04.jpg)
+![Working with the mechanism](Images/fabrication_05.jpg)
+
 ## In Action
-//demo step-by-step images of it working
+![Mechanism sketch](Images/tensiondiagram.png)
+![The parameters for plotting](Images/fabrication_07)
+
 ## Further Ideas
 - Next, we want to measure other parameters like at what time I took my contraceptive pill, how many times did I consume coffee, how much/less homesick did I feel. More intimate habits.
 - As we were running out of time, we didn't have time to wash the fabric and engrave on it. As we speculate the dyes would be more absorbed into the fabric.
