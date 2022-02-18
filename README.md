@@ -54,7 +54,6 @@ This device allows us to see our data, translate it into an image, and to better
 ![Keyboard tracking](Images/img02.png)
 ## Sketches
 ![](Images/img03.png)
-![](Images/sketch.png)
 ![](Images/conceptsketch.jpg)
 
 ## Materials needed (measurements to be added)
