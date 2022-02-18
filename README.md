@@ -30,7 +30,7 @@ Traditionally we used to think in future times. Calendars, schedules, and notebo
 This device allows us to see our data, translate it into an image, and to better understand the flows of our behaviour. We turned upside down the traditional way of visualizing our time to bring the opportunity to be in the context.
 
 ## References
-- [Audrey Desjardins](https://www.studiotilt.design/data-bakery)
+- [Audrey Desjardins](https://www.studiotilt.design/soft-fading)
 - [Data Visualization Textile](https://fashnerd.com/wp-content/uploads/2020/01/nk_sweaters_full.jpg)
 - Pattern Generation on surfaces
 - [pH modifiers for natural dyes](https://www.fourrabbit.com/tutorials/2020/6/5/ph-modifiers-for-natural-dyes)
@@ -54,10 +54,10 @@ This device allows us to see our data, translate it into an image, and to better
 ![](Images/img03.png)
 ![](Images/conceptsketch.jpg)
 
-## Materials needed (measurements to be added)
-- Acrylic board / agar biomaterial
-- Cardboard
-- Canvas fabric
+## Materials needed
+- Cardboard (4.0 mm) 1000x60cm
+- Acrylic Sheet (3.0 mm) 60x30cm
+- Canvas fabric (0.5 mm)100x60cm
 - Pigments natural dyes
 - Dropper bottle
 - Water
