@@ -58,7 +58,7 @@ Below listed are topics we are interested in. The ones in bold are common intere
 
 ## Prototyping
 - While discussing the idea, we were not sure if the tension between the cylinders would be sufficient enough to move but also keep the canvas in hold. To get an understanding of the mechanism, we slit the cardboard into 4 pieces (front, back, side A, side B) with holes on the side to insert the cylinders.
-![Cardboard prototype of the analog data plotter](Images/prototype1.jpg)
+![Cardboard prototype of the analog data plotter!](Documents/GitHub/FABACADEMY-1/Images/prototyping_4.jpg)
 
 - After loading the canvas on the wooden cylinders, we wanted to see how the natural dye (turmeric+water) would emerge and leave residues on the canvas.
 ![Data logging with natural dye](Images/drop.jpg)
