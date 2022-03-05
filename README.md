@@ -135,3 +135,8 @@ We used laser cutter and cross cut wood cutting machine for the fabrication proc
 - We are interested in the new rituals of everyday life that would emerge.
 - We are curious to what limits can we measure on the slots and try different parameters.
 - Try out different materials for the rolling.
+
+## Links to files
+- [Laser cut acryclic](Files/data0.1.dxf)
+- [Laser cut acryclic 2](Files/Data_version_17feb_14h v1.dxf)
+- [Laser cut Fabric](Files/Fabric_calendar.dxf)
