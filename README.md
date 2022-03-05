@@ -138,5 +138,4 @@ We used laser cutter and cross cut wood cutting machine for the fabrication proc
 
 ## Links to files
 - [Laser cut acryclic](Files/data0.1.dxf)
-- [Laser cut acryclic 2](Files/Data_version_17feb_14h v1.dxf)
 - [Laser cut Fabric](Files/Fabric_calendar.dxf)
